@@ -1,0 +1,23 @@
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    font-family: "Saira Condensed", serif;
+}
+li {
+    display: inline-block;
+    margin-right: 10px;
+    font-weight: 800;
+    font-style: normal;
+    transform: translate(-160px, 0px);
+}
+img {
+    width: 5%;
+    transform: translate(-60px, 0px);
+    margin-top: -10px;
+}
+.title{
+    transform: translateX(-125px);
+}
