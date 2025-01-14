@@ -6,11 +6,11 @@ export default function Navbar() {
             <div className="navbar">
                 <ul>
                     <img src={logo} />
-                    <li><span className="Title">OneFrame Studios</span></li>
-                    <li>About us</li>
-                    <li>Gallery</li>
-                    <li>Pricing</li>
-                    <li>Testimonials</li>
+                    <li className="title"><span >OneFrame Studios</span></li>
+                    <li className="navop">About us</li>
+                    <li className="navop">Gallery</li>
+                    <li className="navop">Pricing</li>
+                    <li className="navop"> Testimonials</li>
                 </ul>
             </div>
         </>
