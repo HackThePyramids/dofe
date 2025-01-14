@@ -9,7 +9,7 @@ ul {
 
 img {
     width: 45px;
-    transform: translate(138%);
+    transform: translate(-350%);
     margin-top: -10px;
 }
 .navop {
@@ -20,7 +20,7 @@ img {
 }
 .title{
     display: inline-block;
-    margin-left: -16.5%;
+    margin-left: -25.5%;
     font-weight: 800;
     font-style: normal;
 }

@@ -6,3 +6,27 @@ h1 {
 body {
     background-color: #F7F0F5;
 }
+
+.findyourframe {
+    transform: rotate(-10deg);
+    float: left;
+    font-family: "Saira Condensed", serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-left: 5%;
+    padding: 25px;
+    font-size: 96px;
+    white-space: nowrap;
+}
+.sec1 {
+    display: flex;
+    justify-content: center;
+}
+p {
+    float: right;
+    font-family: "Saira Condensed", serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 30px;
+    word-wrap: break-word;
+}

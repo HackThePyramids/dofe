@@ -9,6 +9,12 @@ const root = createRoot(document.getElementById("root"))
 root.render(
     <>
     <Navbar />
-    <h1> REACCCCCTT B</h1>
+    <div className='sec1'>
+    <h1 className="findyourframe" style={{color: "#595959"}}> FIND YOUR <span style={{color: "#DFD34F"}}>FRAME</span>.</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur
+         adipiscing elit. Cras est erat, pretium ac
+          consectetur et, commodo volutpat erat.
+           Suspendisse sollicitudin, sapien qu</p>
+    </div>
     </>
 )
